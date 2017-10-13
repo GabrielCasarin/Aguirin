@@ -1,8 +1,8 @@
-## Aguirin I
+# Aguirin I
 
 Essa é a primeira tentativa de fazer acontecer a proposta do Casarin.
 
-# O quê? Por quê?
+## O quê? Por quê?
 
 O Aguirin é a proposta de implementar um processador com uma abordagem neuromórfica.
 
@@ -12,13 +12,13 @@ A partir daí ficou na cabeça "e se fizermos um processador baseado em memória
 
 Começaram as pesquisas e compartilhamento de materiais. Finalmente a proposta está começando a ter estrutura suficiente para ser feita alguma coisa.
 
-# Como?
+## Como?
 
 A princípio vamos tentar implementar os modelos em VHDL, pelo conhecimento prévio e não-necessidade de aprender mais uma ferramenta. VHDL é a ferramenta em comum entre nós.
 
 Num primeiro momento estão sendo estudadas possibilidades, e tudo é provisório.
 
-## Abordagem
+# Abordagem
 
 Como vai ser feita a abordagem pra esse projeto?
 
@@ -28,7 +28,7 @@ Como vai ser feita a abordagem pra esse projeto?
 - Fase de simulação
 - Fase de testes
 
-## O que é um neurônio biológico?
+# O que é um neurônio biológico?
 
 Um neurônio biológico é como se fosse o bloco essencial do cérebro de qualquer animal. Ele tem a mesma cara para quase todos animais, então o que varia, geralmente, é como esses blocos se organizam.
 
@@ -45,11 +45,11 @@ Quase do mesmo jeito que diferentes circuitos digitais são combinações difere
 ![alt text](http://neuronios.pbworks.com/f/brain-neuron-types.gif)
 
 
-## Fase de planejamento
+# Fase de planejamento
 
 Nessa etapa vamos tentar descobrir qual a melhor estratégica para começar.
 
-## Leituras
+# Leituras
 - On Intelligence (Jeff Hawkins, Sandra Blakeslee)
 - O conhecimento do cérebro (John C. Eccles, Editora USP)
 - Principles of Neural Science (Kandel, Schwartz, Jessell)
