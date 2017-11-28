@@ -25,4 +25,8 @@ https://arxiv.org/pdf/1511.05552.pdf
 
 - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 
+- https://deeplearning4j.org/restrictedboltzmannmachine.html
+
+- http://www.felixgers.de/papers/phd.pdf
+
 - 
