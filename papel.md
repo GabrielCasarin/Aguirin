@@ -23,4 +23,6 @@ https://arxiv.org/pdf/1511.05552.pdf
 
 - https://arxiv.org/pdf/1212.3765.pdf
 
+- http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+
 - 
