@@ -29,4 +29,6 @@ https://arxiv.org/pdf/1511.05552.pdf
 
 - http://www.felixgers.de/papers/phd.pdf
 
+- https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?referer=https://www.google.com.br/&httpsredir=1&article=5025&context=etd
+
 - 
